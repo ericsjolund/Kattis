@@ -1,3 +1,3 @@
 # Mars window
 
-print("yes" if ((int(input())-2017)*12-4)%26<12 else "no")
+print(("no","yes")[0<6*int(input())%13<7])

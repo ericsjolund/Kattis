@@ -1,0 +1,4 @@
+#Klósettröð
+
+n=int(input())
+

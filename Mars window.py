@@ -1,2 +1,2 @@
 # Mars window
-print(("no","yes")[int(input())%13%2])
+print("nyoe s"[int(input())%13%2::2])
